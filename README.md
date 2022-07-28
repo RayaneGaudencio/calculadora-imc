@@ -1,2 +1,2 @@
 ## Calculadora de IMC feita em React.
-### utiliza o reactstrap (Input, Button)
+- utiliza o reactstrap (Input, Button)
